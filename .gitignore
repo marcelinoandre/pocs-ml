@@ -127,4 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-.data/source-4*
+./data/source-4*
